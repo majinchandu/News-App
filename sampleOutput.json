@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Selina Wang, Nectar Gan",
+            "title": "As crematoriums fill up, China shifts how it counts Covid deaths - CNN",
+            "description": "The prospect of a rising death toll, projected by some studies to be as high as one million, has become a thorny issue for a government that staked its legitimacy on \"saving lives.\"",
+            "url": "https://www.cnn.com/2022/12/22/china/china-covid-deaths-crematorium-intl-hnk-mic/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221222045354-china-covid-deaths-crematorium-intl-hnk.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-23T00:18:00Z",
+            "content": "For much of the pandemic, images of overflowing hospitals and busy funeral homes from the United States have featured heavily on Chinas state-controlled television, where the deaths of over a million… [+6571 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Kelsey Ables",
+            "title": "Scientists have a theory on covid loss of smell: Damage to nasal cells - The Washington Post",
+            "description": "While some have linked smell loss to the nervous system, a study suggests part of the problem could be in the nose — meaning there is potential for topical treatments.",
+            "url": "https://www.washingtonpost.com/health/2022/12/22/covid-loss-of-smell-cause/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JDDHJ3EGZHCTNU6VD3RJFUVGKI.jpg&w=1440",
+            "publishedAt": "2022-12-22T13:45:00Z",
+            "content": "Comment on this story\r\nPersistent loss of smell has left some covid-19 survivors yearning for the scent of their freshly bathed childor a waft of their once-favorite meal. Its left others inured to t… [+4362 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Cassidy Morrison Senior",
+            "title": "Hospitals should stop mass testing for Covid, says influential panel of infectious disease experts - Daily Mail",
+            "description": "An influential panel of infectious disease experts recommended that hospitals stop testing all new admissions for Covid, a move they argue is coming at too high a cost for patients and providers.",
+            "url": "https://www.dailymail.co.uk/health/article-11563601/Hospitals-stop-mass-testing-Covid-says-influential-panel-infectious-disease-experts.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2022/12/21/21/65827745-0-image-a-45_1671656428298.jpg",
+            "publishedAt": "2022-12-21T21:31:06Z",
+            "content": "An influential panel of infectious disease experts recommended hospitals stop testing all new admissions for Covid, which they argue is coming at too high a cost for patients and providers.\r\nRevised … [+3959 chars]"
+        }
+    ]
+}
